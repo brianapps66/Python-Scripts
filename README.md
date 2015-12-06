@@ -1,2 +1,2 @@
 # Python-Scripts
-Collection of my Pythion scripts
+Collection of my Python scripts
