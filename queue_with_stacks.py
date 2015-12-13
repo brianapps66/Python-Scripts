@@ -71,4 +71,5 @@ print(queue.reverse_stack.items)
 
 queue.dequeue()
 print(queue.stack.items)
-
+queue.dequeue()
+print(queue.stack.items)
