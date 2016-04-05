@@ -1,0 +1,10 @@
+e NOT g -> h
+f LSHIFT 1 -> j
+c OR d -> e
+14293 -> c
+432 -> d
+c AND d -> f
+f RSHIFT 5 -> g
+h AND c -> i
+i LSHIFT 3 -> a
+f and j -> b

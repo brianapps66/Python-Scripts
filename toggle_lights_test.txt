@@ -1,0 +1,3 @@
+turn off 5,20 through 40,44
+turn on 69,32 through 92,62
+toggle 43,3 through 87,57
